@@ -28,8 +28,7 @@ Estudiante de Licenciatura en Ingeniería Financiera en el Instituto Tecnológic
 - **Power Query y Power Pivot en Excel**  
 - **Análisis y visualización de datos**  
 - **Resolución de problemas**  
-- **Trabajo en equipo**  
-- **Servicio al cliente**  
+- **Trabajo en equipo**   
 - **Automatización y limpieza de datos**
 
 ## 📚 Cursos y Certificaciones por Habilidad
@@ -53,8 +52,7 @@ Estudiante de Licenciatura en Ingeniería Financiera en el Instituto Tecnológic
 
 ## 🌟 Proyectos Destacados
 
-- [Portafolio en DataCamp](https://www.datacamp.com/portfolio/freddyavj12)
-- [Predictive Modeling for Agriculture](https://github.com/FValeraJ) <!-- Agrega el link específico si lo tienes -->
+- [Portafolio en DataCamp](https://www.datacamp.com/portfolio/freddyavj12) <!-- Agrega el link específico si lo tienes -->
 - [Más proyectos en mi GitHub](https://github.com/FValeraJ)
 
 ## 📈 Intereses
@@ -66,7 +64,7 @@ Estudiante de Licenciatura en Ingeniería Financiera en el Instituto Tecnológic
 
 ## 🔗 Contacto y Redes
 
-- 📧 freddy.valera@outlook.com
+- freddy.valera@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/freddy-valera-04316b2a8)
 - [Portafolio en DataCamp](https://www.datacamp.com/portfolio/freddyavj12)
 
