@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Freddy Valera (FValeraJ)!
+# 👋 ¡Hola, soy Freddy Valera!
 
 ## 🎓 Sobre mí
 Estudiante de Licenciatura en Ingeniería Financiera en el Instituto Tecnológico de Santo Domingo (INTEC), República Dominicana. Apasionado por el análisis financiero, la interpretación de datos y el uso de tecnología para la toma de decisiones informadas.
@@ -67,7 +67,6 @@ Estudiante de Licenciatura en Ingeniería Financiera en el Instituto Tecnológic
 ## 🔗 Contacto y Redes
 
 - 📧 freddy.valera@outlook.com
-- 📍 Santo Domingo, R.D.
 - [LinkedIn](https://www.linkedin.com/in/freddy-valera-04316b2a8)
 - [Portafolio en DataCamp](https://www.datacamp.com/portfolio/freddyavj12)
 
